@@ -1,10 +1,5 @@
 #include <stdio.h>
 
-// Desafio Super Trunfo - Nível Avançado
-// Tema: Batalha de Cartas com Super Poder
-// Autor: Ebergleyson Duarte Costa Júnior
-// Objetivo: Calcular e comparar os atributos de duas cidades
-
 int main() {
     // Declaração das variáveis da Carta 1
     char estado1;
